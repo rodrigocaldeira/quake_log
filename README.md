@@ -4,11 +4,11 @@
 ```sh
 $ git clone https://github.com/rodrigocaldeira/quake_log.git
 $ cd quake_log
+$ chmod +x ./parser.rb
 ```
 
 ## Basic usage (default output as text)
 ```sh
-$ chmod +x ./parser.rb
 $ ./parser.rb qgames.log
 ```
 
